@@ -4,4 +4,5 @@
 
 # Getting started
 Download go executable from site <a href="https://go.dev/" target="_blank"> here </a>
+<br>
 After the installation process open your terminal or command prompt, type `go` to verify everything installed sucessfully 
